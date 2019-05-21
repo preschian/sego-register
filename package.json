@@ -1,0 +1,17 @@
+{
+  "name": "sego-register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:preschian/sego-register.git",
+  "author": "Preschian Febryantara <preschian27@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "sego": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.4",
+    "glob": "^7.1.4",
+    "minimist": "^1.2.0"
+  }
+}
