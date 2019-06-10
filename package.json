@@ -9,7 +9,7 @@
     "sego": "./index.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bluebird": "^3.5.4",
     "glob": "^7.1.4",
     "minimist": "^1.2.0"
